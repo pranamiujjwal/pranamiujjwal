@@ -1,10 +1,10 @@
 <!---pranamiujjwal/pranamiujjwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Hi, I'm [Ujjwal Kumar](https://www.linkedin.com/in/ujjwal-kumar-61a1aa194/), a passionate self-taught python developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
-👀 I’m interested in Data Science and Machine Learning. 
-🌱 I’m currently learning Django so that I can host my models online.
-I take great care in the architecture, experience and code quality of the things I build.
+👋 Hi, I'm [Ujjwal Kumar](https://www.linkedin.com/in/ujjwal-kumar-61a1aa194/), a passionate self-taught python developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. <br/>
+👀 I’m interested in Data Science and Machine Learning. <br/>
+🌱 I’m currently learning Django so that I can host my models online. <br/>
+I take great care in the architecture, experience and code quality of the things I build.<br/>
 
 <img align="right" alt="GIF" src="https://github.com/pranamiujjwal/pranamiujjwal/blob/61058fffa30db8c9f2832675db6cff14c7950fb6/developer.gif?raw=true" width="400" height="320" />
   
@@ -22,4 +22,4 @@ I take great care in the architecture, experience and code quality of the things
 <br/>
 
 📈 My github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pranamiujjwal&show_icons=true&theme=gotham" alt="pranamiujjwal" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pranamiujjwal&show_icons=true&theme=gotham" alt="pranamiujjwal"/>
