@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 🌱 I’m currently learning Django so that I can host my models online.
 I take great care in the architecture, experience and code quality of the things I build.
 
-<img align="right" alt="GIF" src="https://github.com/pranamiujjwal/pranamiujjwal/blob/61058fffa30db8c9f2832675db6cff14c7950fb6/developer.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/pranamiujjwal/pranamiujjwal/blob/61058fffa30db8c9f2832675db6cff14c7950fb6/developer.gif?raw=true" width="400" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:pranamiujjwal0000@gmail.com) :)
 - 💬 ask me about anything, i am happy to help ;
