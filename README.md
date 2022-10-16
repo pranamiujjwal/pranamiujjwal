@@ -22,4 +22,4 @@ I take great care in the architecture, experience and code quality of the things
 <br/>
 
 📈 My github stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pranamiujjwal&show_icons=true&theme=gotham" alt="pranamiujjwal"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pranamiujjwal&show_icons=true&theme=gotham" alt="pranamiujjwal" width="400"/>
