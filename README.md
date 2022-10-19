@@ -1,7 +1,8 @@
 <!---pranamiujjwal/pranamiujjwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Hi, I'm [Ujjwal Kumar](https://www.linkedin.com/in/ujjwal-kumar-61a1aa194/), a passionate self-taught python developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. <br/>
+👋 Hi, <br/>
+I'm [Ujjwal Kumar](https://www.linkedin.com/in/ujjwal-kumar-61a1aa194/), a passionate self-taught python developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. <br/>
 👀 I’m interested in Data Science and Machine Learning. <br/>
 🌱 I’m currently learning Django so that I can host my models online. <br/>
 I take great care in the architecture, experience and code quality of the things I build.<br/>
